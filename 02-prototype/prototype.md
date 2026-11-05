@@ -4,18 +4,17 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
-
+https://lovable.dev/projects/90a6b292-6c87-48d7-a3ad-2da2257b9fbf?magic_link=mc_c156dd4a-1f2b-4821-b272-0108ec9af5b9
 _____
 
 ## What it demonstrates
 
 _The one flow this prototype proves._
-
+This changes an input signal into a problem or job-to-be-done and categorizes the signal. 
 _____
 
 ## Debrief
 
 - **What worked:** _____
 - **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What I'd change next pass:** I would create a weighting system for the signal and a way to notify the DRI and stakeholders. 
