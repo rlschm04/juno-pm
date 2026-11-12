@@ -18,7 +18,7 @@ Slack and ProductBoard return a list of signal plus a count. If a count of zero 
 
 **Confidence Thresholds** (Verification):
 
-High confidence auto-posts to #pm-daily. Medium confidence posts to #pm-juno-review for a reviewer first. Low confidence requires PM approval before anything goes out.
+Low confidence go to a NEEDS CLARIFICATION category.
 
 **North Star** (Context):
 
