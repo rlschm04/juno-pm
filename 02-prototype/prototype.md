@@ -15,6 +15,6 @@ _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
+- **What worked:** I thought it functioned the way I was hoping.
+- **What broke / felt like a toy:** The only part that feels like a toy is that it is not integrated with Slack and ProductBoard yet. So it overall feels very hypothetical.
 - **What I'd change next pass:** I would create a weighting system for the signal and a way to notify the DRI and stakeholders. 
